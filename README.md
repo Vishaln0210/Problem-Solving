@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
