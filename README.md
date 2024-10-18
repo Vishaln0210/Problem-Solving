@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vishaln0210/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Vishaln0210/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1899-count-items-matching-a-rule](https://github.com/Vishaln0210/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Vishaln0210/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishaln0210/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+## String
+|  |
+| ------- |
+| [1899-count-items-matching-a-rule](https://github.com/Vishaln0210/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
