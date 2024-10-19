@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vishaln0210/Leetcode/tree/master/0217-contains-duplicate) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vishaln0210/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vishaln0210/Leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vishaln0210/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vishaln0210/Leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
 |  |
