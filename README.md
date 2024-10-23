@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vishaln0210/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vishaln0210/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Vishaln0210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vishaln0210/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
