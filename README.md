@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishaln0210/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishaln0210/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Vishaln0210/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Vishaln0210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishaln0210/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishaln0210/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishaln0210/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
