@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vishaln0210/Leetcode/tree/master/0009-palindrome-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
