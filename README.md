@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vishaln0210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/0898-transpose-matrix) |
+| [1031-add-to-array-form-of-integer](https://github.com/Vishaln0210/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishaln0210/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vishaln0210/Leetcode/tree/master/0009-palindrome-number) |
 | [0755-reach-a-number](https://github.com/Vishaln0210/Leetcode/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1031-add-to-array-form-of-integer](https://github.com/Vishaln0210/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishaln0210/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
