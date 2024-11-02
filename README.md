@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Vishaln0210/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Vishaln0210/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishaln0210/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1983-maximum-population-year](https://github.com/Vishaln0210/Leetcode/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/Vishaln0210/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishaln0210/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishaln0210/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishaln0210/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/Vishaln0210/Leetcode/tree/master/1983-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Vishaln0210/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/Vishaln0210/Leetcode/tree/master/1983-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
