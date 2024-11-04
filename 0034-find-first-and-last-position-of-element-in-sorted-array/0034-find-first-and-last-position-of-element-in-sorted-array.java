@@ -14,11 +14,11 @@ class Solution {
                 int left = mid;
                 int right = mid;
                 
-                // Expand to the left
+          
                 while (left > 0 && nums[left - 1] == target) {
                     left--;
                 }
-                // Expand to the right
+      
                 while (right < nums.length - 1 && nums[right + 1] == target) {
                     right++;
                 }
@@ -27,6 +27,6 @@ class Solution {
             }
         }
         
-        return new int[] {-1, -1}; // Target not found
+        return new int[] {-1, -1};
     }
 }
