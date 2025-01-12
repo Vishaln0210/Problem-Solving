@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vishaln0210/Leetcode/tree/master/0009-palindrome-number) |
 | [0755-reach-a-number](https://github.com/Vishaln0210/Leetcode/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1013-fibonacci-number](https://github.com/Vishaln0210/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishaln0210/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishaln0210/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -130,8 +131,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vishaln0210/Leetcode/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/Vishaln0210/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vishaln0210/Leetcode/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vishaln0210/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vishaln0210/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
