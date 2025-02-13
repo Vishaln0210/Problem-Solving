@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vishaln0210/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Vishaln0210/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Vishaln0210/Leetcode/tree/master/0861-flipping-an-image) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vishaln0210/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Vishaln0210/Leetcode/tree/master/0043-multiply-strings) |
 | [0755-reach-a-number](https://github.com/Vishaln0210/Leetcode/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Vishaln0210/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/Vishaln0210/Leetcode/tree/master/1013-fibonacci-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vishaln0210/Leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Vishaln0210/Leetcode/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishaln0210/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vishaln0210/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
